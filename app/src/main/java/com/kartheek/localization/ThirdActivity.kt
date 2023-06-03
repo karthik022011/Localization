@@ -7,7 +7,7 @@ import com.kartheek.localization.databinding.ActivityMainBinding
 import com.kartheek.localization.databinding.ActivitySecondBinding
 import com.kartheek.localization.databinding.ActivityThirdBinding
 
-class ThirdActivity : AppCompatActivity() {
+class ThirdActivity : BaseActivity(){
     private lateinit var binding : ActivityThirdBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
