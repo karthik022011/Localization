@@ -32,37 +32,11 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Navigate to Seond Activity"
+        android:text="Navigate to First Activity"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <Button
-        android:id="@+id/buttonEnglish"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Change to English"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/button" />
-
-    <Button
-        android:id="@+id/buttonTelugu"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Change to Telugu"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/buttonEnglish"  />
-
-    <Button
-        android:id="@+id/buttonHindi"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Change to Hindi"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/buttonTelugu"   />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

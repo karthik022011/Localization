@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Localization</string>
+    <string name="hello">Hello</string>
+    <string name="focus">Focus on your goals</string>
 </resources>

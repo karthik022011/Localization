@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="hello">నమస్కారం</string>
+    <string name="focus">మీ లక్ష్యాలపై దృష్టి పెట్టండి</string>
+</resources>
